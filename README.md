@@ -1,7 +1,5 @@
 # FitMate.AI
 
----
-
 Hello Guys, This is my first time experience of coding on " NVIDIA Jetson Nano " and I have created a #--> Face Authenticated Posture Detection Software <--#
 here the steps the code follow are
 
